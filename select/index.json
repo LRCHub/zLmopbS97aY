@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "アルカリレットウセイ",
+  "base_artist": "かいりきベア",
+  "createdAt": "2026-02-07T05:40:10.614356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ - TearDrop Flavor",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/01_アルカリレットウセイ_-_TearDrop_Flavor_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ -TearDrop Flavor-",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/02_アルカリレットウセイ_-TearDrop_Flavor-_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ [まらしぃ Remix]",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/03_アルカリレットウセイ_[まらしぃ_Remix]_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ",
+      "artist": "かいりきベア feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_アルカリレットウセイ_かいりきベア_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/05_アルカリレットウセイ_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ (Alkali Rettousei) -TearDrop Flavor-",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/06_アルカリレットウセイ_(Alkali_Rettousei)_-TearDrop_Flavor-_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/07_アルカリレットウセイ_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ - まらしぃ Remix",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/08_アルカリレットウセイ_-_まらしぃ_Remix_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/09_アルカリレットウセイ_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/10_アルカリレットウセイ_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ -TearDrop Flavor-",
+      "artist": "かいりきベア feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/11_アルカリレットウセイ_-TearDrop_Flavor-_かいりきベア_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ -TearDrop Flavor- feat. 初音ミク",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/12_アルカリレットウセイ_-TearDrop_Flavor-_feat._初音ミク_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ (REBOOT ver.)",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/13_アルカリレットウセイ_(REBOOT_ver.)_かいりきベア.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ (Alkali Rettousei) -TearDrop Flavor-",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/14_アルカリレットウセイ_(Alkali_Rettousei)_-TearDrop_Flavor-_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/15_アルカリレットウセイ_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ[まらしぃ Remix]",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/16_アルカリレットウセイ[まらしぃ_Remix]_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/17_アルカリレットウセイ_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ -TearDrop Flavor-",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/18_アルカリレットウセイ_-TearDrop_Flavor-_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "アルカリレットウセイ",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/19_アルカリレットウセイ_かいりきベア.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルカリレットウセイ",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_アルカリレットウセイ_かいりきベア.txt"
+    }
+  ]
+}
